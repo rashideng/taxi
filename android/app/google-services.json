@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493372460552",
+    "project_id": "r-taxi-4ed53",
+    "storage_bucket": "r-taxi-4ed53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493372460552:android:b100e6ba220ddc6340cbbd",
+        "android_client_info": {
+          "package_name": "com.rashid.rtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493372460552-7clnkmvh3g733nitf8ikhhjo42jikfql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBixl3n0qA301yhD_CdtIHMKY5mFcofFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493372460552-7clnkmvh3g733nitf8ikhhjo42jikfql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
